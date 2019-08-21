@@ -1,0 +1,65 @@
+# xms
+.yichu{
+  text-align: center;
+  font-size: 65rpx;
+  /* margin-top: 10rpx; */
+}
+.wrapper{
+  background-color:#FFEEDD;
+  opacity: 0.8;
+  padding-bottom:20rpx;
+}
+.all{
+  width: 120rpx;
+  height: 120rpx;
+}
+.shangyi{
+  width: 120rpx;
+  height: 120rpx;
+}
+.kuzi{
+  width: 120rpx;
+  height: 120rpx;
+}
+.lianyiqun{
+  width: 120rpx;
+  height: 120rpx;
+}
+.xiezi{
+  width: 120rpx;
+  height: 120rpx;
+}
+.zhuangshipin{
+  width: 120rpx;
+  height: 120rpx;
+}
+page {
+ background: #FFEEDD;
+}
+/* 卡片 */
+.item-container {
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+ transition: 0.3s;
+ width: 92%;
+ margin: 4%;
+ display: flex;
+ flex-direction: column;
+ background: white;
+ padding-top: 5pt;
+ padding-bottom: 5pt;
+ border-radius: 5px;
+}
+/* 上传人 */
+
+.item-data {
+ font-size: 12px;
+ margin-right: 15px;
+ position:relative; 
+ /* margin-top: -30px;  */
+}
+/* 图片 */
+.img {
+ width: 100px;
+ height: 100px;
+ margin-right: 20px;
+}
